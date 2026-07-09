@@ -1,0 +1,3 @@
+frutas = ["manzana", "banana", "naranja", "pera", "uva"]
+for fruta in frutas:
+    print(fruta)
